@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HeartView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="val_below_100">Val &lt;= 100 </string>
+    <string name="checkItOut">CheckItOut</string>
+
+</resources>
